@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJS, Typescript**
 
-- 👨‍💻 All of my projects are available at [prabinbastakoti.github.io](prabinbastakoti.github.io)
+- 👨‍💻 All of my projects are available at [https://prabinbastakoti.github.io/](https://prabinbastakoti.github.io/)
 
 - 💬 Ask me about **react, Nodejs, Express**
 
